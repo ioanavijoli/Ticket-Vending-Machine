@@ -1,0 +1,17 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design Explorer: Shortcut to "C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\proiect_bilete_tren.aws" design added.
+acom $DSN/src/algoritm_de_dat_rest.vhd
+# Compile...
+# File: C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat\src\algoritm_de_dat_rest.vhd
+# Compile Entity "REST"
+# Entity `REST' has been skipped - no difference detected.
+# Compile Architecture "algoritm" of Entity "REST"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom $DSN/src/algoritm_de_dat_rest.vhd
+# Compile...
+# File: C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat\src\algoritm_de_dat_rest.vhd
+# Compile Entity "REST"
+# Entity `REST' has been skipped - no difference detected.
+# Compile Architecture "algoritm" of Entity "REST"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]

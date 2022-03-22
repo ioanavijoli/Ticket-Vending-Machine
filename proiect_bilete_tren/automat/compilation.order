@@ -1,0 +1,17 @@
+.\src\algoritm_de_dat_rest.vhd
+.\src\automat.vhd
+.\src\distanta_introdusa.vhd
+.\src\numarator_zecimal_pentru_distanta.vhd
+.\src\cost_bilet.vhd
+.\src\verifica_bilet.vhd
+.\src\introducere_suma.vhd
+.\src\etape_afisare.vhd
+.\src\divizor_de_frecventa.vhd
+.\src\decodificator_7_segmente.vhd
+.\src\afisare.vhd
+.\src\debounce_switch.vhd
+.\src\verificare_suma.vhd
+.\src\casa_bani.vhd
+.\src\afisare_rest.vhd
+.\src\numar_de_afisat.vhd
+.\src\numarator_bancnote.vhd

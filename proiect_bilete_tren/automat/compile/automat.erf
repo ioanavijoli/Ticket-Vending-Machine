@@ -1,0 +1,5 @@
+MESSAGE "File: C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat\src\algoritm_de_dat_rest.vhd" 
+MESSAGE "Compile Entity "REST"" 
+MESSAGE "Entity `REST' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "algoritm" of Entity "REST"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]" 

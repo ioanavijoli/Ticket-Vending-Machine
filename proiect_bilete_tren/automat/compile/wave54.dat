@@ -1,0 +1,51 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 clock
+$IN 5 1 reset
+$IN 9 1 confirm
+$IN +4 1 en_mii
+$IN +4 1 en_sute
+$IN +4 1 en_zeci
+$IN +4 1 en_bn1
+$IN +4 1 5 0 "2"
+$IN +4 1 5 0 "5"
+$IN +4 1 5 0 "10"
+$IN +4 1 5 1 "2"
+$IN +4 1 5 1 "5"
+I 2 "a#28#std_logic_vector(6 downto 0)1 ricd6 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S 77 2 7 r1
+$SC 49-73/4
+$BUS S +33 2 7 r2
+$SC 78-+24/4
+$BUS S +33 2 7 r5
+$SC 107-+24/4
+$BUS S +33 2 7 r10
+$SC 136-+24/4
+$BUS S +33 2 7 r20
+$SC 165-+24/4
+$BUS S +33 2 7 r50
+$SC 194-+24/4
+$BUS S +33 2 7 e1
+$SC 223-+24/4
+$BUS S +33 2 7 e2
+$SC 252-+24/4
+$BUS S +33 2 7 e5
+$SC 281-+24/4
+$BUS S +33 2 7 e10
+$SC 310-+24/4
+$BUS S +33 2 7 e20
+$SC 339-+24/4
+$BUS S +33 2 7 e50
+$SC 368-+24/4
+I 3 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S +21 3 4 cifra0
+$SC 397-+12/4
+$BUS S +21 3 4 5 0 "1"
+$SC 414-+12/4
+$BUS S +21 3 4 5 0 "2"
+$SC 431-+12/4
+$BUS S +21 3 4 5 0 "3"
+$SC 448-+12/4
+$S +5 1 rest_gata
+$ENDWAVE

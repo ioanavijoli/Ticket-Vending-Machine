@@ -1,0 +1,1 @@
+-w -s "C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\library.cfg"  -j "C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat\projlib.cfg"  -d "C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat\compile\"  -work automat -dbg -e 100 "C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat\src\algoritm_de_dat_rest.vhd" 

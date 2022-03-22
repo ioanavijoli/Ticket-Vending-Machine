@@ -1,0 +1,56 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "a#28#std_logic_vector(6 downto 0)1 ricd6 0 e#9#std_logicc9 UX01ZWLH-"
+I 2 "e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT 29 1 7 r1
+$SC 1-25/4
+$BUS OUT 58 1 7 r2
+$SC 30-54/4
+$BUS OUT 87 1 7 r5
+$SC 59-83/4
+$BUS OUT +33 1 7 r10
+$SC 88-+24/4
+$BUS OUT +33 1 7 r20
+$SC 117-+24/4
+$BUS OUT +33 1 7 r50
+$SC 146-+24/4
+$IN +5 2 clk
+$IN +4 2 verificare_rest
+$IN +4 2 resetare
+$BUS IN +32 1 7 suma_intordusa
+$SC 187-+24/4
+$BUS IN +33 1 7 rest_calculat
+$SC 216-+24/4
+$BUS IN +33 1 7 q1
+$SC 245-+24/4
+$BUS IN +33 1 7 q2
+$SC 274-+24/4
+$BUS IN +33 1 7 q5
+$SC 303-+24/4
+$BUS IN +33 1 7 q10
+$SC 332-+24/4
+$BUS IN +33 1 7 q20
+$SC 361-+24/4
+$BUS IN +33 1 7 q50
+$SC 390-+24/4
+$OUT +5 2 error_lipsa_rest
+$BUS OUT +4 1 7 r1
+$SC 1-25/4
+$BUS OUT 424 1 7 r2
+$SC 30-54/4
+$BUS OUT 425 1 7 r5
+$SC 59-83/4
+$BUS OUT 426 1 7 r10
+$SC 88-+24/4
+$BUS OUT 427 1 7 r20
+$SC 117-+24/4
+$BUS OUT 428 1 7 r50
+$SC 146-+24/4
+I 3 "e#5#stares7 st0 st1 st2 st3 st4 st5 st6 "
+$S 429 3 st
+$S +4 3 st_next
+$BUS S +32 1 7 REST
+$SC 437-+24/4
+$S +5 2 init_rest
+$S +4 2 5 0 banconote
+$ENDWAVE

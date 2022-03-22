@@ -1,0 +1,34 @@
+elbread.dll ver. 1.0.5.365 Tue May 18 16:21:29 2021
+
+
+-------------------------------------------------
+Entity                | Architecture    | Library
+-------------------------------------------------
+automat               | cod             | automat
+debounce              | structurala     | automat
+etapa_afisare         | comportamentala | automat
+distanta_introdusa    | comportamentala | automat
+verifica_bilet        | comportamentala | automat
+cost                  | comportamentala | automat
+introducere_suma      | suma            | automat
+verificare_suma       | comportamentala | automat
+rest                  | algoritm        | automat
+casa_bani             | comportamentala | automat
+afisare_rest          | arhitectura     | automat
+afisare               | arh             | automat
+numarator_zecimal     | comportamentala | automat
+numarator_bancnote    | comportamentala | automat
+pregatire_numar       | comportamentala | automat
+segment_decoder       | comportamentala | automat
+divizor_de_frecventa  | comportamentala | automat
+-------------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+numeric_std         | ieee
+-----------------------------

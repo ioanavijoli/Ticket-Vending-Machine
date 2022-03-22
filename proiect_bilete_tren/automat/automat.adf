@@ -1,0 +1,78 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=automat
+
+[Library]
+automat=.\automat.lib
+
+[$LibMap$]
+automat=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=automat|cod|0      
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/algoritm_de_dat_rest.vhd=-1
+/automat.vhd=-1
+/distanta_introdusa.vhd=-1
+/numarator_zecimal_pentru_distanta.vhd=-1
+/cost_bilet.vhd=-1
+/verifica_bilet.vhd=-1
+/introducere_suma.vhd=-1
+/etape_afisare.vhd=-1
+/divizor_de_frecventa.vhd=-1
+/decodificator_7_segmente.vhd=-1
+/afisare.vhd=-1
+/debounce_switch.vhd=-1
+/verificare_suma.vhd=-1
+/casa_bani.vhd=-1
+/afisare_rest.vhd=-1
+/numar_de_afisat.vhd=-1
+/numarator_bancnote.vhd=-1
+/Waveform Editor 1.awf=-1
+/Waveform Editor 2.awf=-1
+/Waveform Editor 32.awf=-1
+
+[Files.Data]
+.\src\algoritm_de_dat_rest.vhd=VHDL Source Code
+.\src\automat.vhd=VHDL Source Code
+.\src\distanta_introdusa.vhd=VHDL Source Code
+.\src\numarator_zecimal_pentru_distanta.vhd=VHDL Source Code
+.\src\cost_bilet.vhd=VHDL Source Code
+.\src\verifica_bilet.vhd=VHDL Source Code
+.\src\introducere_suma.vhd=VHDL Source Code
+.\src\etape_afisare.vhd=VHDL Source Code
+.\src\divizor_de_frecventa.vhd=VHDL Source Code
+.\src\decodificator_7_segmente.vhd=VHDL Source Code
+.\src\afisare.vhd=VHDL Source Code
+.\src\debounce_switch.vhd=VHDL Source Code
+.\src\verificare_suma.vhd=VHDL Source Code
+.\src\casa_bani.vhd=VHDL Source Code
+.\src\afisare_rest.vhd=VHDL Source Code
+.\src\numar_de_afisat.vhd=VHDL Source Code
+.\src\numarator_bancnote.vhd=VHDL Source Code
+.\src\Waveform Editor 1.awf=Waveform File
+.\src\Waveform Editor 2.awf=Waveform File
+.\src\Waveform Editor 32.awf=Waveform File
+

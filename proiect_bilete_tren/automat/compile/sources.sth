@@ -1,0 +1,23 @@
+[Files List]
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\STD/src/standard.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/stdlogic.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/arith.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/unsigned.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/numstd.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/divizor_de_frecventa.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/decodificator_7_segmente.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/numar_de_afisat.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/numarator_bancnote.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/numarator_zecimal_pentru_distanta.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/afisare.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/afisare_rest.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/casa_bani.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/algoritm_de_dat_rest.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/verificare_suma.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/introducere_suma.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/cost_bilet.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/verifica_bilet.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/distanta_introdusa.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/etape_afisare.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/debounce_switch.vhd=S
+C:\Users\Ioana\Desktop\PROIECT. PSN\proiect_bilete_tren\automat/src/automat.vhd=S
